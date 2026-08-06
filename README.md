@@ -1,4 +1,5 @@
 # SINGLE CYCLE RISCV PROCESSOR
+![SystemVerilog](https://img.shields.io/badge/Language-SystemVerilog-blue)
 This project implements a single cycle RISCV processor. A RISCV processor has the following 6 types of instructions:
 | Sr.no | Type | Description |
 |-------|------|-------------|

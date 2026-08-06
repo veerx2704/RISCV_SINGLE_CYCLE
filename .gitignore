@@ -1,0 +1,4 @@
+operations.tcl
+openroad_flow.tcl
+riscv_sta.tcl
+synth.ys

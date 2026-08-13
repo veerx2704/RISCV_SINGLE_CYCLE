@@ -61,7 +61,7 @@ This project implements a single cycle RISCV processor. A RISCV processor has th
 
 The design was simulated and synthesized in AMD Vivado 2024.2 for a Kintex-7 based board.
 
-The single cycle processor was targetted for a 50 MHz frequency. The design implemented in Vivado successfully matched the initial target frequency of 50MHz. After multiple modifications in constraints, the maximum frequency of the design was calculated to be around 90MHz, which is far more optimal than the initial target. The total power consumption came out to be 0.249 W.
+The single cycle processor was targetted for a 50 MHz frequency. The design implemented in Vivado successfully matched the initial target frequency of 50MHz. After multiple modifications in constraints, the maximum frequency of the design was calculated to be around 90MHz, which is far more optimal than the initial target. The total power consumption came out to be 0.259 W.
 
 ![Timing Report for the Design](Timing_Report.png)
 
